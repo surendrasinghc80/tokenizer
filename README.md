@@ -230,16 +230,4 @@ Converts token IDs back into text.
 
 ---
 
-## 📄 License
-
-MIT License © 2025
-
-```
-
----
-
-If you want, I can also **write the exact Postman example collection JSON** so you can directly import it and test `/train`, `/encode`, `/decode` instantly.
-Do you want me to prepare that next?
-```
-
 
