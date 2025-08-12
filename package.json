@@ -1,0 +1,25 @@
+{
+  "name": "tokenassignment",
+  "version": "1.0.0",
+  "description": "Custom tokenizer API that supports ENCODE/DECODE and special tokens",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [
+    "tokenizer",
+    "encode",
+    "decode",
+    "nlp"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
