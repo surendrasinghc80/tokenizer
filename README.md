@@ -46,7 +46,7 @@ tokenAssignment/
 git clone https://github.com/surendrasinghc80/tokenizer.git
 
 # Go inside the folder
-cd tokenAssignment
+cd tokenizer
 
 # Install dependencies
 npm install
@@ -229,5 +229,6 @@ Converts token IDs back into text.
 - ✅ Documentation
 
 ---
+
 
 
