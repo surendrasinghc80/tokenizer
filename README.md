@@ -214,7 +214,8 @@ Converts token IDs back into text.
 <img width="1975" height="1291" alt="image" src="https://github.com/user-attachments/assets/08c6c493-ed1c-4266-a4b8-a188568e89c6" />
 
 -> Decoding // Sending the token to get the data
-<img width="1975" height="1291" alt="image" src="https://github.com/user-attachments/assets/e79c0469-ca3b-4e22-b112-4500f99e5af5" />
+<img width="1975" height="1291" alt="image" src="https://github.com/user-attachments/assets/206d53ba-8d49-45d9-b949-027b1b4c1301" />
+
 
 
 ---
@@ -240,4 +241,5 @@ MIT License © 2025
 If you want, I can also **write the exact Postman example collection JSON** so you can directly import it and test `/train`, `/encode`, `/decode` instantly.
 Do you want me to prepare that next?
 ```
+
 
