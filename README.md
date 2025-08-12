@@ -207,7 +207,15 @@ Converts token IDs back into text.
 
 ## 📷 Screenshots
 
-_(Add Postman screenshots showing `/train` → `/encode` → `/decode` flow)_
+-> Train // Adding the vocab in the vocab.json
+<img width="1975" height="1291" alt="image" src="https://github.com/user-attachments/assets/601e091b-a180-4ef8-a1ae-841c25b9bbb6" />
+
+-> Encode // Testing the encoding
+<img width="1975" height="1291" alt="image" src="https://github.com/user-attachments/assets/08c6c493-ed1c-4266-a4b8-a188568e89c6" />
+
+-> Decoding // Sending the token to get the data
+<img width="1975" height="1291" alt="image" src="https://github.com/user-attachments/assets/e79c0469-ca3b-4e22-b112-4500f99e5af5" />
+
 
 ---
 
@@ -232,3 +240,4 @@ MIT License © 2025
 If you want, I can also **write the exact Postman example collection JSON** so you can directly import it and test `/train`, `/encode`, `/decode` instantly.
 Do you want me to prepare that next?
 ```
+
